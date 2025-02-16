@@ -1,5 +1,4 @@
 import Image from "next/image"
-import Photo from"../../images/Photofabrication.jpg";
 import Link from "next/link";
 import { Separator } from "@/components/ui/separator"
 import PhotoFenetre from "../../images/imagefenetres.png"
