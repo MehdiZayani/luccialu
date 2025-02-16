@@ -4,7 +4,7 @@ import { Separator } from "@/components/ui/separator"
 import PhotoFenetre from "../../images/imagefenetres.png"
 import EchantillonFenetre from "../../images/serie67Ellipse.png"
 import FenetreCoulissante from "../../images/FenêtreCoulissanteAluminiumSurMesure.jpg"
-import Fenetrefrancaise from"../../images/Portefenêtrealu2vantaux.webp"
+import Fenetrefrancaise from"../../images/Portefenêtrealu2vantaux.jpg"
 import PhotoCoulissante from"../../images/BaievitréeAluminium.png"
 export default function catalogue(params) {
     return(
