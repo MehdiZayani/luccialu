@@ -87,7 +87,7 @@ export default function Home() {
                 </h1>
 
                 <p className="max-w-lg mt-6 text-gray-500  ">
-                &quot;Fidèle à son engagement envers ses clients, Lucci Alu place leur satisfaction au cœur de ses priorités en proposant des produits et services répondant aux plus hautes exigences dans le domaine des menuiseries en aluminium. La direction met un point d'honneur à garantir le respect des attentes clients ainsi que des obligations réglementaires et légales.&quot;
+                &quot;Fidèle à son engagement envers ses clients, Lucci Alu place leur satisfaction au cœur de ses priorités en proposant des produits et services répondant aux plus hautes exigences dans le domaine des menuiseries en aluminium. La direction met un point d&quot;honneur à garantir le respect des attentes clients ainsi que des obligations réglementaires et légales.&quot;
                 </p>
 
                 <h3 className="mt-6 text-lg font-medium text-blue-500">Nizar zayani</h3>
@@ -197,7 +197,7 @@ En <span className="text-blue-500">2023</span>, il donne naissance à <span clas
 
             <details className="group rounded-lg bg-gray-50 p-6 [&_summary::-webkit-details-marker]:hidden">
                 <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-gray-900">
-                <h2 className="font-medium">POURQUOI CHOISIR L'ALUMINIUM POUR VOS MENUISERIES ?</h2>
+                <h2 className="font-medium">POURQUOI CHOISIR L&quot;ALUMINIUM POUR VOS MENUISERIES ?</h2>
 
                 <span className="relative size-5 shrink-0">
                     <svg
